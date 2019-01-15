@@ -23,6 +23,8 @@ import { TreePipe } from './utils/tree/tree.pipe';
 ```
 
 In your component template add:<br/>
-```<app-tree [items]="array_of_items"></app-tree>```
+```
+<app-tree [items]="array_of_items"></app-tree>
+```
 
 :-)
